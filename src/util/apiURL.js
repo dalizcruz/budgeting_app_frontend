@@ -5,5 +5,5 @@ export const apiURL = () => {
     ) {
       return 'http://localhost:5000'
     }
-    return 'https://budgeting-app-express.herokuapp.com/';
+    return 'https://budgeting-app-express.herokuapp.com';
   }
